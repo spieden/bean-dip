@@ -1,5 +1,7 @@
 # bean-dip
 
+[![CircleCI](https://circleci.com/gh/uwcpdx/bean-dip/tree/master.svg?style=svg)](https://circleci.com/gh/uwcpdx/bean-dip/tree/master)
+
 Bidirectional translation between Clojure maps and Java beans that's declarative and reflection-free.
 
 ## Basic Usage
